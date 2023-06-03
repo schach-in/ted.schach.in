@@ -1,0 +1,7 @@
+# Zugzwang CMS
+/_backup
+/_cache
+/_logs
+/_temp
+/_inc/config.json
+
