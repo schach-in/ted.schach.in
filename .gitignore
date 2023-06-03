@@ -4,4 +4,6 @@
 /_logs
 /_temp
 /_inc/config.json
-
+/.rsync-filter
+/.rsync-remote
+/_inc/custom/zzwrap_sql/pwd.json
