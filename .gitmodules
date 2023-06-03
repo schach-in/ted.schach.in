@@ -1,0 +1,18 @@
+[submodule "_inc/modules/zzwrap"]
+	path = _inc/modules/zzwrap
+	url = git@github.com:koenige/zzwrap
+[submodule "_inc/modules/zzbrick"]
+	path = _inc/modules/zzbrick
+	url = git@github.com:koenige/zzbrick
+[submodule "_inc/modules/zzform"]
+	path = _inc/modules/zzform
+	url = git@github.com:koenige/zzform
+[submodule "_inc/modules/voting"]
+	path = _inc/modules/voting
+	url = git@github.com:schach-in/modules-voting
+[submodule "_inc/modules/default"]
+	path = _inc/modules/default
+	url = git@github.com:koenige/modules-default
+[submodule "_inc/library/markdown-extra"]
+	path = _inc/library/markdown-extra
+	url = git@github.com:michelf/php-markdown
