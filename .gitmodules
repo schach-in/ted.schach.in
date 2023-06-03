@@ -16,3 +16,9 @@
 [submodule "_inc/library/markdown-extra"]
 	path = _inc/library/markdown-extra
 	url = git@github.com:michelf/php-markdown
+[submodule "_inc/themes/chess16"]
+	path = _inc/themes/chess16
+	url = git@github.com:schach-in/themes-chess16
+[submodule "_inc/themes/schachin"]
+	path = _inc/themes/schachin
+	url = git@github.com:schach-in/themes-schachin
