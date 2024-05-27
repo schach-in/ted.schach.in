@@ -22,3 +22,6 @@
 [submodule "_inc/themes/schachin"]
 	path = _inc/themes/schachin
 	url = git@github.com:schach-in/themes-schachin
+[submodule "_inc/library/adminer"]
+	path = _inc/library/adminer
+	url = git@github.com:koenige/adminer

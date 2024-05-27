@@ -3,7 +3,6 @@
 /_cache
 /_logs
 /_temp
-/_inc/config.json
+/_inc/config
 /.rsync-filter
 /.rsync-remote
-/_inc/custom/zzwrap_sql/pwd.json
